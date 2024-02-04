@@ -11,7 +11,7 @@ This simple express application allows users to write notes and save them for la
 - [Questions](#questions)
       
 ## Installation
-Visit ___ to use the application.
+Visit https://secret-cove-67698-89eeac41124a.herokuapp.com/ to use the application.
       
 ## Usage
 Use the 'get started' button to navigate to the notes page. From there, select new note and fill the fields. You can then select save note to save it for later.
